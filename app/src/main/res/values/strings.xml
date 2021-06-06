@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KotlinAndroid-AboutMe</string>
+    <string name="name">Aihtsham Ali</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi,\nMy Name is Aihtsham Ali
+        \nI\'m a Software Developer with an experience in Web Development.
+        Now I\'m moving towards Android so this is my 3rd project in Kotlin Android.
+        \nI\'m following the Udacity course for this and to be honest it really worth it.
+        \nMuch spacing is given because the content is less and I need to test the scroll so ignore
+        the extra line spaces please.
+        \nI hope you will like my this android series and get some informative code from here.
+        \nHave a nice day
+        \n\t\t Good Bye :)
+    </string>
+    <string name="nick_name_hint">What is your nick name?</string>
+    <string name="done_button">Done</string>
+
+</resources>
